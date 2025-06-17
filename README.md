@@ -13,7 +13,7 @@ A sleek and interactive Todo List web app built using **HTML**, **CSS**, and **J
 
 ## 🚀 Live Demo
 
-🔗 [Live demo Coming Soon]
+🔗 [Live demo Coming Soon] --
 
 
 ## 🛠️ Tech Stack
@@ -24,4 +24,4 @@ A sleek and interactive Todo List web app built using **HTML**, **CSS**, and **J
 
 ## 📷 Preview
 
-![Screen short coming soon]
+![Screen short coming soon] --
