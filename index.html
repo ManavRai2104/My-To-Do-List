@@ -4,19 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>To-Do-List</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
-    
+    <div class="container">
+        <div class="to-do-app">
+            <h2>To-Do List <img src="img/address-book.png" ></h2>
+            <div class="row">
+                <input type="text" placeholder="Type Your Task Here" id="input-box">
+                <button onclick="addTask()">Add</button>
+            </div>
+            <ul id="list-container">
+                <!-- <li class="checked">TASK 1</li>
+                <li>TASK 2</li>
+                <li>TASK 3</li> -->
+
+            </ul>
+        </div>
+    </div>
 
 
 
 
 
-
-        <script src="main.js"></script>
+<script src="main.js"></script>
 </body>
-<footer>
-    
-</footer>
 </html>
